@@ -1,7 +1,7 @@
 # 💰 Voice Banking 
 
-Ứng dụng Flutter giúp quản lý và thông báo giao dịch ngân hàng theo thời gian thực.  
-Dự án được xây dựng trong quá trình học tập & thực hành Flutter kết hợp với SQLite và Firebase.
+Ứng dụng Flutter giúp quản lý và thông báo giao dịch ngân hàng bằng giọng nói theo thời gian thực.  
+Dự án được xây dựng trong quá trình học tập & thực hành Flutter kết hợp với Firebase.
 
 ---
 
@@ -56,12 +56,4 @@ Dự án được xây dựng trong quá trình học tập & thực hành Flutt
 - **TransactionStatsScreen**: Thống kê chi tiêu.  
 - **LoginScreen / HomeScreen**: Đăng nhập & menu tài khoản.  
 
----
-
-## 🚀 Cách chạy dự án
-
-1. Clone project:
-   ```bash
-   git clone https://github.com/<username>/<repo_name>.git
-   cd <repo_name>
 
